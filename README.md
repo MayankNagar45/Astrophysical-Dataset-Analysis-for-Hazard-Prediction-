@@ -161,32 +161,13 @@ To predict whether an asteroid poses a threat to Earth using structured orbital 
 - `sklearn.model_selection`, `sklearn.metrics`
 - `shap`, `scipy`, `stats`
 
----
-
-## 📁 Project Structure
----
 
 ## ✅ Conclusion
 
 This project demonstrates a full pipeline of **asteroid risk classification**, from preprocessing and visualization to advanced modeling and evaluation. By applying **deep feature engineering**, **cross-validation**, and **explainability techniques**, it delivers actionable insights into celestial object behavior and risk prediction.
-
----
-
-## 📬 Future Work
-
-- Apply **time-series analysis** for temporal prediction.
-- Integrate **XGBoost** or **LSTM** models.
-- Expand dataset with latest JPL/NASA feeds.
-
----
-
-## 📜 License
-
-MIT License. Attribution required for dataset source if public use is made.
-
 ---
 
 ## 👨‍🚀 Author
 
-**[Your Name]**  
+**[Mayank Nagar]**  
 Astrophysics Enthusiast | Machine Learning Explorer  
