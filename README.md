@@ -1,4 +1,4 @@
-# Astrophysical-Dataset-Analysis-for-Hazard-Prediction-
+
 # 🪐 Astrophysical Dataset Analysis: Orbital Risk Prediction Using Machine Learning
 
 This project explores an **astrophysical dataset** to identify potentially hazardous asteroids based on orbital parameters and physical features. It combines advanced **data preprocessing**, **exploratory analysis**, **feature engineering**, and **machine learning techniques** to accurately assess asteroid threat levels.
